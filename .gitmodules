@@ -1,0 +1,6 @@
+[submodule "yasnippet-snippets"]
+	path = yasnippet-snippets
+	url = https://github.com/AndreaCrotti/yasnippet-snippets.git
+[submodule "clojure-snippets"]
+	path = clojure-snippets
+	url = https://github.com/swannodette/clojure-snippets.git
