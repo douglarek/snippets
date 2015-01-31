@@ -4,3 +4,6 @@
 [submodule "clojure-snippets"]
 	path = clojure-snippets
 	url = https://github.com/swannodette/clojure-snippets.git
+[submodule "rust-snippets"]
+	path = rust-snippets
+	url = https://github.com/darinmorrison/rust-snippets.git
