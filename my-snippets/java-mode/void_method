@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: void_method
+# key: vm
+# --
+void ${1:name}(${2:args}) {
+	    $0
+}
