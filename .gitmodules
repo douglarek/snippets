@@ -7,3 +7,6 @@
 [submodule "rust-snippets"]
 	path = rust-snippets
 	url = https://github.com/darinmorrison/rust-snippets.git
+[submodule "go-snippets"]
+	path = go-snippets
+	url = https://github.com/toumorokoshi/go-snippets.git
