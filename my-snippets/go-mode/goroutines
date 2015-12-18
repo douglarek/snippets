@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: goroutines
+# key: go
+# --
+go func() $1 {
+	$0
+}()
