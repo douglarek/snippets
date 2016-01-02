@@ -2,6 +2,6 @@
 # name: goroutines
 # key: go
 # --
-go func() $1 {
+go func() {
 	$0
 }()
