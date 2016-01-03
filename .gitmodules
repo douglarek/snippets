@@ -6,7 +6,7 @@
 	url = https://github.com/swannodette/clojure-snippets.git
 [submodule "rust-snippets"]
 	path = rust-snippets
-	url = https://github.com/darinmorrison/rust-snippets.git
+	url = https://github.com/freebroccolo/rust-snippets.git
 [submodule "go-snippets"]
 	path = go-snippets
 	url = https://github.com/toumorokoshi/go-snippets.git
