@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: println!("?");
+# key: pln
+# type: snippet
+# --
+println!("${1:?}");$0

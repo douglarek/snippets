@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: print!("?");
+# key: pr
+# type: snippet
+# --
+print!("${1:?}");$0
