@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: let mut pat = expr;
+# key: mut
+# type: snippet
+# --
+let mut ${1:pat} = ${2:expr};$0
